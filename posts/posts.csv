@@ -1,0 +1,3 @@
+id,type,files,caption,scheduledAt,status,error
+ejemplo-carrusel-verano,carousel,media/ejemplo-1.jpg|media/ejemplo-2.jpg,"Ejemplo de carrusel #verano",2026-08-01T14:00:00-03:00,pending,
+ejemplo-historia,story,media/ejemplo-1.jpg,,2026-08-01T10:00:00-03:00,pending,
