@@ -1,10 +1,10 @@
 id,type,files,caption,scheduledAt,status,error
 post-07,feed,post-07.png,"Tu página web es el primer vendedor que nunca duerme.
 
-#paginaweb #DiseñoWeb #StudioCode #DesarrolloWeb #Emprendedores",2026-07-26T11:00:00-03:00,pending,
+#paginaweb #DiseñoWeb #StudioCode #DesarrolloWeb #Emprendedores",2026-07-26T11:00:00-03:00,error,"Error validating access token: Session has expired on Sunday, 26-Jul-26 00:00:00 PDT. The current time is Monday, 27-Jul-26 00:42:53 PDT."
 post-08,feed,post-08.png,"Lo que no se ve en Google, para muchos no existe. Y tu negocio se lo está regalando a la competencia.
 
-#paginaweb #SEO #DiseñoWeb #StudioCode #MarketingDigital",2026-07-26T17:00:00-03:00,pending,
+#paginaweb #SEO #DiseñoWeb #StudioCode #MarketingDigital",2026-07-26T17:00:00-03:00,error,"Error validating access token: Session has expired on Sunday, 26-Jul-26 00:00:00 PDT. The current time is Monday, 27-Jul-26 00:42:53 PDT."
 post-09,feed,post-09.png,"¿Cuántas ventas perdiste esta semana por no responder a tiempo?
 
 #paginaweb #Automatizacion #WhatsAppBusiness #StudioCode #Emprendedores",2026-07-27T11:00:00-03:00,pending,
@@ -91,7 +91,7 @@ post-36,feed,post-36.png,"Desarrollo web y automatización: dos soluciones, un s
 #paginaweb #DesarrolloWeb #Automatizacion #StudioCode #Emprendedores",2026-08-09T19:00:00-03:00,pending,
 carousel-13,carousel,carousel-13-1.png|carousel-13-2.png|carousel-13-3.png|carousel-13-4.png,"Cómo elegir el nombre de dominio perfecto. 4 tips simples antes de registrar el tuyo. ➡️
 
-#paginaweb #DiseñoWeb #StudioCode #DesarrolloWeb #Emprendedores",2026-07-26T14:00:00-03:00,pending,
+#paginaweb #DiseñoWeb #StudioCode #DesarrolloWeb #Emprendedores",2026-07-26T14:00:00-03:00,error,"Error validating access token: Session has expired on Sunday, 26-Jul-26 00:00:00 PDT. The current time is Monday, 27-Jul-26 00:42:53 PDT."
 carousel-14,carousel,carousel-14-1.png|carousel-14-2.png|carousel-14-3.png|carousel-14-4.png,"SEO básico: 4 cosas simples para aparecer en Google. No hace falta ser experto para empezar. ➡️
 
 #paginaweb #SEO #StudioCode #MarketingDigital #DiseñoWeb",2026-07-27T14:00:00-03:00,pending,
